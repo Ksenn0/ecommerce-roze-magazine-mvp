@@ -73,7 +73,7 @@ export default function Carrinho() {
     mensagem += `Obrigado! Aguardo confirmação.`;
 
     const encodedMessage = encodeURIComponent(mensagem);
-    const whatsappUrl = `https://wa.me/5589999030380?text=${encodedMessage}`; // ← troque pelo número real da loja
+    const whatsappUrl = `https://wa.me/[Número de telefone]?text=${encodedMessage}`; // ← troque pelo número real da loja
 
     window.open(whatsappUrl, '_blank');
   };
