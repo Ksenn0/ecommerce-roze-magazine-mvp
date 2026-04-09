@@ -87,7 +87,6 @@ Apenas admins específicos podem criar, editar e excluir produtos
 Upload de imagens seguro no Supabase Storage
 Variáveis de ambiente configuradas corretamente no Vercel
 
-```markdown
 ## 🚀 Deploy
 
 Projeto configurado com deploy automático no Vercel via integração com GitHub.
