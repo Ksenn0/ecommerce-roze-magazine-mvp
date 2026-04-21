@@ -91,7 +91,7 @@ Variáveis de ambiente configuradas corretamente no Vercel
 
 Projeto configurado com deploy automático no Vercel via integração com GitHub.
 
-**Link do Projeto Online:** [https://seu-link-vercel.vercel.app](https://seu-link-vercel.vercel.app)
+**Link do Projeto Online:** [https://seu-link-vercel.vercel.app](https://rozemagazine.vercel.app/)
 
 ## 📄 Licença
 
